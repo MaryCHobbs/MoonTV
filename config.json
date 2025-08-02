@@ -1,3 +1,4 @@
+
 {
   "cache_time": 7200,
   "api_site": {
@@ -18,6 +19,10 @@
     "bfzy": {
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "name": "暴风资源"
+    },
+        "baidu": {
+        "api": "https://api.apibdzy.com/api.php/provide/vod",
+        "name": "百度云资源"
     },
     "tyyszy": {
       "api": "https://tyyszy.com/api.php/provide/vod",
@@ -80,6 +85,14 @@
     "lzi": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源站"
+    },
+    "iqiyi": {
+        "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
+        "name": "iqiyi资源",
+    },
+        "hwba": {
+        "api": "https://cjhwba.com/api.php/provide/vod",
+        "name": "华为吧资源",
     },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
